@@ -1,0 +1,9 @@
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\bin\Debug\LabServer.exe.config
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\bin\Debug\LabServer.exe
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\bin\Debug\LabServer.pdb
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\bin\Debug\RemoteLibrary.dll
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\bin\Debug\RemoteLibrary.pdb
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\obj\Debug\LabServer.csprojResolveAssemblyReference.cache
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\obj\Debug\LabServer.csproj.CoreCompileInputs.cache
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\obj\Debug\LabServer.exe
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabServer\obj\Debug\LabServer.pdb

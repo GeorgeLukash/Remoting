@@ -1,0 +1,6 @@
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\RemoteLibrary\bin\Debug\RemoteLibrary.dll
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\RemoteLibrary\bin\Debug\RemoteLibrary.pdb
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\RemoteLibrary\obj\Debug\RemoteLibrary.csprojResolveAssemblyReference.cache
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\RemoteLibrary\obj\Debug\RemoteLibrary.csproj.CoreCompileInputs.cache
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\RemoteLibrary\obj\Debug\RemoteLibrary.dll
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\RemoteLibrary\obj\Debug\RemoteLibrary.pdb

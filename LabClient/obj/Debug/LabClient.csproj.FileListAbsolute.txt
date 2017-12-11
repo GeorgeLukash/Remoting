@@ -1,0 +1,8 @@
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\bin\Debug\LabClient.exe.config
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\bin\Debug\LabClient.exe
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\bin\Debug\LabClient.pdb
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\bin\Debug\RemoteLibrary.dll
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\bin\Debug\RemoteLibrary.pdb
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\obj\Debug\LabClient.csproj.CoreCompileInputs.cache
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\obj\Debug\LabClient.exe
+F:\GeoRG\Універ_ПМА_Юр\5\Vagin\laba2\remoting\LabClient\obj\Debug\LabClient.pdb
